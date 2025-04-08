@@ -1,2 +1,3 @@
 # author
-book designer
+book cover designer
+mra consultant
